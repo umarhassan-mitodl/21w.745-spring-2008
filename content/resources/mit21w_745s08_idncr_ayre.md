@@ -5,8 +5,6 @@ description: 'This resource contains the information regarding i don''t care: ap
 file: /courses/21w-745-advanced-essay-workshop-spring-2008/e960872ae7c31dc9f90d7f41cf8a9707_MIT21W_745S08_idncr_ayre.pdf
 file_size: 198647
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
